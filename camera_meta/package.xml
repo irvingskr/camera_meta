@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>camera_meta</name>
+  <version>0.0.0</version>
+  <description>The camera_meta package</description>
+
+  <maintainer email="irving@todo.todo">irving</maintainer>
+
+  <license>TODO</license>
+
+  <exec_depend>galaxy_camera</exec_depend>
+  <exec_depend>hk_camera</exec_depend>
+  <exec_depend>camera_base</exec_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>
